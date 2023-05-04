@@ -1,0 +1,3 @@
+Melhor Score do nível 0 : 20 pontos
+Melhor Score do nível 1 : 59 pontos
+Melhor Score do nível 2 : 94 pontos
